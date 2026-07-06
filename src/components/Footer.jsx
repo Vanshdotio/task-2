@@ -68,7 +68,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2.5">
                 <HiPhone className="w-5 h-5 text-blue-500 shrink-0 mt-0.5" />
-                <span>+91 98765 43210</span>
+                <span>12345677890</span>
               </li>
               <li className="flex items-start gap-2.5">
                 <HiEnvelope className="w-5 h-5 text-blue-500 shrink-0 mt-0.5" />

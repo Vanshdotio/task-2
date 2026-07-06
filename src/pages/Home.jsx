@@ -52,7 +52,7 @@ const Home = () => {
 
   return (
     <div className="space-y-20 pb-20">
-      <section className="relative w-full h-[580px] flex items-center justify-center bg-slate-900 overflow-hidden">
+      <section className="relative w-full min-h-[620px] md:h-[580px] py-20 md:py-0 flex items-center justify-center bg-slate-900 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
             src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1600&q=80" 
